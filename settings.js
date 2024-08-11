@@ -18,7 +18,7 @@ global.location = "kenya, Up, Rampur"
 
 global.ownernumber = '254755835054'  //creator number
 global.ownername = '🐛Tech wll gavi' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'Tech Gavi ᵇᵘᵍᵇᵒᵗ ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
