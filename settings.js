@@ -1,10 +1,10 @@
-//base by Tech-God
+//base by wll-Gavi
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
+//Instagram: wllgavi143
+//Telegram: t.me/wllgavi143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +254755835054
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,7 +14,7 @@ global.ownernomer = "254755835054"
 global.ownername = "🐛Tech wll gavi"
 global.ytname = "YT: Tech-wll gavi"
 global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.location = "kenya, Up, Rampur"
 
 global.ownernumber = '254755835054'  //creator number
 global.ownername = '🐛Tech wll gavi' //owner name
@@ -22,7 +22,7 @@ global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: +254755835054'
 
 //console view/theme
 global.themeemoji = '🪀'
