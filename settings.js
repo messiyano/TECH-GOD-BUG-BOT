@@ -22,14 +22,14 @@ global.botname = 'Tech Gavi ᵇᵘᵍᵇᵒᵗ ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +254755835054'
+global.author = 'Tech-God\n\nContact: '254755835054'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Youtube Tech wll gavi."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/H0J6AHCae68CX0ArBjV5lo'
+global.link = 'https://chat.whatsapp.com/K4ObpXjOeVVFP1uZiyikq0'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
